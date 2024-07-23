@@ -4,3 +4,6 @@
 [submodule "week03/my-git-repo"]
 	path = week03/my-git-repo
 	url = https://github.com/FewIT20/software-tools-week03-lab02
+[submodule "week03/mygit-lab"]
+	path = week03/mygit-lab
+	url = https://github.com/FewIT20/software-tools-week03-lab03.git
