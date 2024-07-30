@@ -7,6 +7,15 @@
 [submodule "week03/mygit-lab"]
 	path = week03/mygit-lab
 	url = https://github.com/FewIT20/software-tools-week03-lab03.git
-[submodule "week04"]
-	path = week04
-	url = https://github.com/FewIT20/software-tools-week04-lab01.git
+[submodule "week4/software-tools-week04-lab04"]
+	path = week4/software-tools-week04-lab04
+	url = https://github.com/FewIT20/software-tools-week04-lab04.git
+[submodule "week4/software-tools-week04-lab03"]
+	path = week4/software-tools-week04-lab03
+	url = https://github.com/FewIT20/software-tools-week04-lab03.git
+[submodule "week2/software-tools-week04-lab02"]
+	path = week2/software-tools-week04-lab02
+	url = https://github.com/FewIT20/software-tools-week04-lab03.git
+[submodule "week1/software-tools-week04-lab01"]
+	path = week1/software-tools-week04-lab01
+	url = https://github.com/FewIT20/software-tools-week04-lab03.git
